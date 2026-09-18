@@ -1,5 +1,10 @@
 # 💫 About Me:
-soc analyst 1 learning red teaming <br>
+Cybersecurity Enthusiast | Ethical Hacking & Penetration Testing 🔐
+Google Cybersecurity Certified | Hands-on Labs & CTFs
+Exploring Linux, Networking, Web Security & Security Tools
+Currently advancing in Penetration Testing & Red Teaming
+
+Building security tools, practicing in labs, and learning by doing. 🚀 <br>
 
 
 ## 🌐 Socials:
